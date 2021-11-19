@@ -1,3 +1,3 @@
-# Bug_97
-This project crime report management system is a project that is developed with the aim automating the manual system of lodging complains,
-to the security personnel in my country.
+My_Campus Aid is an Artificial Intelligence project that will be deployed   in order to help freshers to know buildings and structures and most importantly lecture halls within the campus premises without stressing their selves asking for strangers or existing students. 
+Expect the full stuff in no distant time. 
+
